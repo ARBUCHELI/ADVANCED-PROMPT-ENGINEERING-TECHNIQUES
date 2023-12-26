@@ -1,0 +1,12 @@
+# Introduction
+--------------
+
+* Prompting to make AI systems more useful
+------------------------------------------
+	. Academy research
+	. AI Alchemy
+
+* How to use the exercise files
+-------------------------------
+	. Pay attention to the prompts folder.
+

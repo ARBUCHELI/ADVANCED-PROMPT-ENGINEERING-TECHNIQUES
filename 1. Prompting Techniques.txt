@@ -15,3 +15,26 @@ REFERENCE PROMPTING IS ABOUT GIVING CONTEXT TO THE PROMPT.
 
 It means, you are giving the system reference material to work with.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Zero-shot and few-shot prompting
+----------------------------------
+In general better reference materials provide better outputs.
+
+The reference to shot is related to how many examples you provide.
+
+	. zero-shot prompt: No examples
+
+	. few-shot prompt: You give a patter of some examples of prompts and responses. --> THE POINT HERE IS THE FINAL ANSWER IS GENERATED BASED ON THE PATTERN, AND TO GUIDE TO SYSTEM
+											    TO MATCH THE PARENTS.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+	
+
+
+

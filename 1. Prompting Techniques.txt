@@ -3,3 +3,15 @@
 
 * Reference prompting
 ---------------------
+When we prompt, we are sending off requests to a data model that puts together things that look like sentences and words.  Better talk to the system in English.
+
+The proof these systems like ChatGPT are not really intelligent is they are not capable to complete taks like the following task:
+
+	. Spell the word lollipop backwards.
+
+	. The only way to do it is telling the system that split the word first into separated letters.
+
+REFERENCE PROMPTING IS ABOUT GIVING CONTEXT TO THE PROMPT.
+
+It means, you are giving the system reference material to work with.
+

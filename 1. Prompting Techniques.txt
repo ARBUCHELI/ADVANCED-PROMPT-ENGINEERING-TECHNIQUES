@@ -30,6 +30,27 @@ The reference to shot is related to how many examples you provide.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Chain-of-thought (CoT) prompting
+----------------------------------
+We can provide the system a chain of thoughts for training it on how to answer the questions.
+
+You train the system to match the patterns of the type of solutions you want.
+
+You can order the ChatGPT to think step by step to solve specific problems.
+
+PAY ATTENTION TO THIS:
+______________________
+WHEN YOU TELL THE SYSTEM TO THINK STEP BY STEP:
+
+- THE SYSTEM CREATES ITS OWN PROCESS AND GOES THROUGH THE PROCESS STEP BY STEP.
+- THIS ENDED UP BEING ONE OF THE MOST POWERFUL PROMPT ENGINEERING TECHNIQUES THAT EXIST.
+
+IF YOU ARE NOT GETTING THE ANSWERS THAT YOU ARE LOOKING FOR, WHEN YOU ARE USING A AI SYSTEM, TRY THIS TECHNIQUE:
+
+	. JUST TELL THE SYSTEM LET'S DO THIS STEP BY STEP AND SEE WHAT IT DOES.
+
+
+
 
 
 

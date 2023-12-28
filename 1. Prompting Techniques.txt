@@ -59,6 +59,47 @@ TAKE A DEEP BREATH AND WORK STEP BY STEP. --> WHEN WE DO THIS, WE ARE INVOKING P
 
 If you prefix your request with TAKE A DEEP BREATH, it goes through a more in deep process every time, and its more likely to produce the right output.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Generated knowledge prompting
+-------------------------------
+HOW DO WE CREATED EXAMPLES FOR THE PREVIOUS TECHNIQUES?
+
+I can get the AI system to gereate these examples for me:
+
+I can start giving a short list of examples, and when I get the response, I can use the response to continue working.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

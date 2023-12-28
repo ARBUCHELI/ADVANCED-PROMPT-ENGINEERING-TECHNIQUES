@@ -105,6 +105,14 @@ Hint: --> HERE WE PROVIDE THE HINT.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Chain-of-density (CoD) prompting
+----------------------------------
+THIS TAKES ALL THE PREVIOUS TECHNIQUES AND STICK THEM UP TOGETHER INTO ONE GIANT PROMPT, THAT DOES SOMETHING THAT QUITE FRANKLY IS AMAZING.
+
+WITH THIS TECHNIQUE FOR EXAMPLE YOU CAN GET JSON OUTPUT THAT YOU CAN USE IN AN APPLICATION.  
+
+For example if you are building a summarization tool, for academic work.
+
 
 
 

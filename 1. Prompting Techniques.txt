@@ -53,6 +53,12 @@ IF YOU ARE NOT GETTING THE ANSWERS THAT YOU ARE LOOKING FOR, WHEN YOU ARE USING 
 
 * Take a deep breath and work step by step
 ------------------------------------------
+You can improve the output to tell the system:
+
+TAKE A DEEP BREATH AND WORK STEP BY STEP. --> WHEN WE DO THIS, WE ARE INVOKING PATTERNS IN THE TRAINING MATERIAL.
+
+If you prefix your request with TAKE A DEEP BREATH, it goes through a more in deep process every time, and its more likely to produce the right output.
+
 
 
 

@@ -71,6 +71,55 @@ I can start giving a short list of examples, and when I get the response, I can 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Tree-of-thought (ToT) prompting --> THIS IS VERY USEFUL FOR SOLVING COMPLEX TASKS.
+---------------------------------
+The previously studied techniques are linear.
+
+AI systems can do a process of thinking that humans really cant.
+
+EXPLANATION OF THE PROCESS
+--------------------------
+Imagine that you have a task, and instead of trying to solve it yourself, you have a group of experts, and for each step you ask each one of them what is the best step to move forward.
+
+You leverage the AI system to come out with multiple solutions to solve a problem, at a time, and then you are having the system to pick which solution is the best one.
+
+EXAMPLE OF IMPLEMENTATION OF THE PROCESS:
+-----------------------------------------
+1) Imagine three different experts are answering this question.
+2) All experts will write down 1 step of their thinking, then sare it with the group.
+3) Then all experts will go on to the next step. etc.
+4) If any expert realises they're wrong at any point then they leave.
+5) The question is:
+6) HERE YOU PROVIDE THE QUESTION.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

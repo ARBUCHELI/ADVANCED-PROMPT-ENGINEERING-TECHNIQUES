@@ -94,6 +94,17 @@ EXAMPLE OF IMPLEMENTATION OF THE PROCESS:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Directional stimulus prompting
+--------------------------------
+GIVING THE AI A HINT OF WHAT YOU WANT --> IN THIS TECHNIQUE BASICALLY YOU ARE APPLYING COMMON SENSE (I'M EXPERT IN USING THIS TECHNIQUE).
+
+EXAMPLE OF IMPLEMENTATION OF THE TECHNIQUE:
+-------------------------------------------
+1) Summarize the above in 2 -3 sentences based on the hint.
+Hint: --> HERE WE PROVIDE THE HINT.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
